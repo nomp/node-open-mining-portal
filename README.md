@@ -11,7 +11,6 @@ This is beta software. All of the following are things that can change and break
 #### Paid Solution
 Usage of this software requires abilities with sysadmin, database admin, coin daemons, and sometimes a bit of programming. Running a production pool can literally be more work than a full-time job. 
 
-
 **Coin switching & auto-exchanging for payouts in BTC/LTC** to miners is a feature that very likely will not be included in this project. 
 
 
@@ -110,23 +109,11 @@ didn't follow the instructions in this README. Please __read the usage instructi
 If your pool uses NOMP let us know and we will list your website here.
 
 ##### Some pools using NOMP or node-stratum-module:
-* http://chunkypools.com
 * http://clevermining.com
-* http://rapidhash.net
-* http://suchpool.pw
-* http://hashfaster.com
-* http://miningpoolhub.com
-* http://teamdoge.com
-* http://miningwith.us
 * http://kryptochaos.com
-* http://uberpools.org
-* http://onebtcplace.com
-* http://minr.es
-* http://mining.theminingpools.com
-* http://www.omargpools.ca/pools.html
-* http://pool.trademybit.com/
-* http://fixminer.com
-* http://poollo.com
+* http://miningpoolhub.com (Donations to this project are going directly to TheSerapher, the original author of this project. (https://github.com/MPOS/php-mpos) #is this still a nomp?
+* http://hashfaster.com (MPOS, sign up) #is thhis still a  nomp?
+* http://suchpool.pw #is this still a nomp?
 
 Usage
 =====
