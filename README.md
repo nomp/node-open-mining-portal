@@ -111,9 +111,9 @@ If your pool uses NOMP let us know and we will list your website here.
 ##### Some pools using NOMP or node-stratum-module:
 * http://clevermining.com
 * http://kryptochaos.com
-* http://miningpoolhub.com (Donations to this project are going directly to TheSerapher, the original author of this project. (https://github.com/MPOS/php-mpos) #is this still a nomp?
-* http://hashfaster.com (MPOS, sign up) #is thhis still a  nomp?
-* http://suchpool.pw #is this still a nomp?
+* http://miningpoolhub.com 
+* http://hashfaster.com 
+* http://suchpool.pw
 
 Usage
 =====
